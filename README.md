@@ -1,3 +1,6 @@
+#original Data can be downloaded under following Kaggle link:
+# https://www.kaggle.com/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv
+
 import csv
 
 import pandas as pd
